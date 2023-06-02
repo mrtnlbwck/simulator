@@ -1,0 +1,40 @@
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Debug\symulator_procesora.exe.config
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Debug\symulator_procesora.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Debug\symulator_procesora.pdb
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.csprojAssemblyReference.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.Form1.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.Properties.Resources.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.csproj.GenerateResource.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.csproj.CoreCompileInputs.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Debug\symulator_procesora.pdb
+C:\Users\olakr\Downloads\projekt5_180293_180161\bin\Debug\symulator_procesora.exe.config
+C:\Users\olakr\Downloads\projekt5_180293_180161\bin\Debug\symulator_procesora.exe.manifest
+C:\Users\olakr\Downloads\projekt5_180293_180161\bin\Debug\symulator_procesora.application
+C:\Users\olakr\Downloads\projekt5_180293_180161\bin\Debug\symulator_procesora.exe
+C:\Users\olakr\Downloads\projekt5_180293_180161\bin\Debug\symulator_procesora.pdb
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.csproj.AssemblyReference.cache
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.csproj.SuggestedBindingRedirects.cache
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.Form1.resources
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.Properties.Resources.resources
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.csproj.GenerateResource.cache
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.csproj.CoreCompileInputs.cache
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.exe.manifest
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.application
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.exe
+C:\Users\olakr\Downloads\projekt5_180293_180161\obj\Debug\symulator_procesora.pdb
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\bin\Debug\symulator_procesora.exe.config
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\bin\Debug\symulator_procesora.exe.manifest
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\bin\Debug\symulator_procesora.application
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\bin\Debug\symulator_procesora.exe
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\bin\Debug\symulator_procesora.pdb
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.csproj.AssemblyReference.cache
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.csproj.SuggestedBindingRedirects.cache
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.Form1.resources
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.Properties.Resources.resources
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.csproj.GenerateResource.cache
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.csproj.CoreCompileInputs.cache
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.exe.manifest
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.application
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.exe
+C:\Users\olakr\OneDrive\Pulpit\projekt5_procesor_MA\obj\Debug\symulator_procesora.pdb

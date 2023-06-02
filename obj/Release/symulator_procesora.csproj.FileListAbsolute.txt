@@ -1,0 +1,14 @@
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Release\symulator_procesora.exe.config
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Release\symulator_procesora.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Release\symulator_procesora.pdb
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.csprojAssemblyReference.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.Form1.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.Properties.Resources.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.csproj.GenerateResource.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.csproj.CoreCompileInputs.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.pdb
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Release\symulator_procesora.exe.manifest
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\bin\Release\symulator_procesora.application
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.exe.manifest
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\Projekt 5\symulator_procesora\obj\Release\symulator_procesora.application

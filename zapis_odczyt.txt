@@ -1,0 +1,4 @@
+MOV AH 90
+ADD BH 87
+MOV BL 12
+
